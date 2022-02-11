@@ -1,5 +1,7 @@
 # EDA-Analysis
 
+Experiments conducted as part of Advanced BME Lab (AM5019) during December 2021 & January 2022.
+
 ## EXPERIMENT: Tonic and phasic response of the skin conductance acquired from a subject viewing a virtual reality simulation.
 
 OBJECTIVE: </br>
